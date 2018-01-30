@@ -38,7 +38,7 @@ python main.py
 ### Model
 
 <p align="center">
-    <img src="images/model.png" width="720" alt="model structure" /><br>
+    <img src="images/model.png" width="960" alt="model structure" /><br>
     <b>Model Structure</b><br>
 </p> 
 
@@ -53,15 +53,10 @@ python main.py
 </p>
 
 <p align="center">
-    <img src="images/um_000015.png" height="200"/> <img src="images/uu_000081.png" height="200"/><br>
-	<img src="images/um_000061.png" height="200"/> <img src="images/umm_000077.png" height="200"/><br>
-	<img src="images/um_000064.png" height="200"/> <img src="images/umm_000007.png" height="200"/><br>
+    <img src="images/um_000015.png" width="480"/> <img src="images/uu_000081.png" width="480"/><br>
+	<img src="images/umm_000077.png" width="480"/> <img src="images/um_000064.png" width="480"/><br>
+	<img src="images/um_000007.png" width="480"/> <img src="images/umm_000007.png" width="480"/><br>
     Road Inference Result (batch size 8, 75 epoch)<br>
 </p>
 
 The rest of the inference Result image of KITTI test dataset can be found at 'runs' folder.  
-
-
-
-
-
